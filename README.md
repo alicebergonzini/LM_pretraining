@@ -6,5 +6,5 @@
 ###### Corso di Laurea Magistrale in Informatica Umanistica, UniPi
 
 Progetto di tesi per il corso di Laurea Magistrale in Informatica Umanistica. 
-Il progetto consiste nel effettuare il pre-addestramento di un LM, in particolare di BERT, con l'applicazione di una strategia di _Curriculum Learning_. 
+Il progetto consiste nel effettuare il pre-addestramento di un LM, in particolare di BERT, con l'applicazione di diverse strategie di leearning, tra cui il _Curriculum Learning_. Per la valutazione dei modelli è stato effettuato un processo di probing e il calcolo della perplessità.
 
